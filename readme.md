@@ -1,5 +1,5 @@
 # Rebase workflow : sandbox repository
 
-commit 2
+commit 3
 
-github commit 1
+github commit 2
